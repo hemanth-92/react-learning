@@ -1,7 +1,7 @@
-
+import Hello from "./hello"
 function App() {
 	return (
-		<h1>iam learning recat </h1>
+		<Hello />
 	)
 }
 export default App
