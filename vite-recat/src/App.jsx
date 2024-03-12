@@ -1,7 +1,10 @@
 import Hello from "./hello"
 function App() {
 	return (
-		<Hello />
+		<>
+			<Hello />
+			<p>About its structure and flow</p>
+		</>
 	)
 }
 export default App
